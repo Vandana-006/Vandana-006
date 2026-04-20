@@ -8,14 +8,6 @@ Focused on developing innovative and efficient solutions.<br>
 Open to opportunities and collaborations.
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vandana-006&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vandana-006&theme=flat&margin-w=10&margin-h=10" />
-</p>
-
 ---
 
 <h3 align="center">🌐 Connect with me</h3>
