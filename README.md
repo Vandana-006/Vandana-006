@@ -39,6 +39,8 @@ Open to opportunities and collaborations.
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" />
 <img src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1612345746/hevo-learn/tableau_logo-1.png" width="40" />
+<img src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1612345746/hevo-learn/tableau_logo-1.png" width="40" />
+
 </p>
 
 ---
